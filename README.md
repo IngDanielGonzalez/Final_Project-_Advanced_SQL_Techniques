@@ -1,1 +1,1 @@
-# Final_Project-_Advanced_SQL_Techniques
+Here, we explore various SQL techniques for effectively manipulating data.
